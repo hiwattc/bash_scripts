@@ -1,0 +1,4 @@
+www.google.com 80
+www.google.com 443
+www.naver.com 80
+www.naver.com 443
